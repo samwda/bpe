@@ -1,4 +1,4 @@
-# Billing Process Engineering for Woo
+# Billing Process Engineering
 
 Billing Process Engineering is a powerful solution for customizing your checkout pages in WordPress, providing features such as:
 
