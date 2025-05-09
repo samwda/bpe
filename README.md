@@ -74,7 +74,7 @@ We welcome feedback, issues, pull requests, and forks.
 If you're building your own billing solution, feel free to use `BPE Core` as a base.
 
 ### GitHub
-- [bpe-woo](https://github.com/samwda/bpe)
+- [bpe](https://github.com/samwda/bpe)
 - [other modules coming soon...]
 
 ---
