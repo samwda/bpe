@@ -49,7 +49,7 @@ Yes, the plugin provides options to completely remove these sections.
 == Changelog ==
 
 = 2.0.0 =
-- Added custom settings panel with icon integration
+- Added custom settings panel
 - Shortcode conversion feature for checkout page
 - Option to remove "Additional Information" section completely
 - Conditional removal of State/County for digital products
