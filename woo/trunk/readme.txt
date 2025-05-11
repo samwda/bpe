@@ -1,7 +1,7 @@
 === Billing Process Engineering for Woo ===
-Contributors: samahjoob12
+Contributors: smahjoob, samwda
 Tags: WooCommerce, Checkout, Validation, Customization, Conditional Logic
-Tested up to: 6.7
+Tested up to: 6.8.1
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
