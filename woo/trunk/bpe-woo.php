@@ -3,8 +3,8 @@
  * Plugin Name: Billing Process Engineering for Woo
  * Description: A plugin to manage WooCommerce checkout fields with additional customization and validation.
  * Version: 2.0
- * Author: Seyyed Ahmadreza Mahjoob
- * Author URI: https://samahjoob.ir
+ * Author: SAM Web Design Agency
+ * Author URI: https://samwda.ir
  * Text Domain: bpe-woo
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
