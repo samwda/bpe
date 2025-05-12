@@ -1,8 +1,8 @@
 # Billing Process Engineering
 
-**BPE** is a modular, open-source system for engineering smarter billing experiences across WordPress-based platforms.
+**BPE** is a modular, open-source system for engineering smarter billing experiences across platforms.
 
-It provides a highly flexible foundation and UI framework to manage billing fields, logic, and workflows — tailored for platforms like **WooCommerce**, **EDD**, and beyond.
+It provides a highly flexible foundation and UI framework to manage billing fields, logic, and workflows — tailored for platforms like **WooCommerce**, and beyond.
 
 ---
 
@@ -33,10 +33,6 @@ BPE is not just a plugin — it’s a way of thinking about billing.
 - Provides global logic and filter handling
 - Field registration, validation & conditional management
 - Lightweight and independent of any e-commerce plugin
-
-### 🛍️ `BPE for EDD` *(Coming Soon)*
-- Integration with Easy Digital Downloads
-- Automatically optimize checkout for digital goods
 
 ### 🚀 `BPE Pro` *(In Development)*
 - Advanced logic builder (IF/THEN conditions)
